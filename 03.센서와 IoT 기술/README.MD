@@ -4,7 +4,7 @@
 [AWS IoT Workshop URL 링크]
 </br>
 </br>
-<1> AWS IoT Core workshop for beginners (Korean)
+<1> AWS IoT Core workshop for beginners (Korean ,실습불가)
 </br>
 https://catalog.us-east-1.prod.workshops.aws/workshops/f87a7c7a-0af8-416a-80ee-7c25c5789307/ko-KR
 </br>
