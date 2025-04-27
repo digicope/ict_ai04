@@ -8,6 +8,7 @@
 </br>
 https://catalog.us-east-1.prod.workshops.aws/workshops/f87a7c7a-0af8-416a-80ee-7c25c5789307/ko-KR
 </br>
+</br>
 https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/review?templateURL=https://ws-assets-prod-iad-r-iad-ed304a55c2ca1aee.s3.us-east-1.amazonaws.com/6d30487a-48e1-4631-b6bc-5602582800b5/workshop_vscode_ssm_cf_2.yaml&stackName=DeviceClientWorkshop
 <br>
 
