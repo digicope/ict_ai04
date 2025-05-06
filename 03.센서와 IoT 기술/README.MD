@@ -6,6 +6,8 @@ MQTT란 무엇인가?
 </br>
 https://aws.amazon.com/ko/what-is/mqtt/
 </br>
+https://underflow101.tistory.com/22
+</br>
 </br>
 
 [AWS IoT Workshop URL 링크]
