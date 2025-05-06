@@ -4,7 +4,7 @@
 [AWS IoT Workshop URL 링크]
 </br>
 </br>
-<1> AWS IoT Core workshop for beginners (Korean) : 먼저 아래 AWS IoT Device Client Workshop의 CloudFormation 스택 생성후 진행
+<1> AWS IoT Core workshop for beginners (Korean) 
 </br>
 https://catalog.us-east-1.prod.workshops.aws/workshops/f87a7c7a-0af8-416a-80ee-7c25c5789307/ko-KR
 </br>
