@@ -18,7 +18,7 @@ https://underflow101.tistory.com/22
 https://catalog.us-east-1.prod.workshops.aws/workshops/f87a7c7a-0af8-416a-80ee-7c25c5789307/ko-KR
 </br>
 
-<2> AWS IoT Device Management Workshop (English)
+<2> AWS IoT Device Management Workshop (English) : 스택 생성시 VSCodeInstanceType 을 t3.large로 변경한다
 </br>
 https://catalog.us-east-1.prod.workshops.aws/workshops/7c2b04e7-8051-4c71-bc8b-6d2d7ce32727/en-US
 </br>
