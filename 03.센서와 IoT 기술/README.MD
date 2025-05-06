@@ -1,6 +1,12 @@
 ## 03.센서와 IoT 기술 
 <br>
 
+</br>
+MQTT란 무엇인가?
+</br>
+https://aws.amazon.com/ko/what-is/mqtt/
+</br>
+
 [AWS IoT Workshop URL 링크]
 </br>
 </br>
